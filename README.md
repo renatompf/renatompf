@@ -1,6 +1,11 @@
 # Hi there!! 🖖
-I'm Renato a software engineer based in Luxembourg working for [Nexxtlab S.A.](https://www.nexxtlab.lu/) and for as long as my career has been I've been working as a Backend Engineer - currently using [JakartaEE](https://jakarta.ee/) and [Payara](https://www.payara.fish/).<br><br>Curious about how things work and being constantly researching I hope to become a better Software Engineer, therefore I'm trying to understand the best about how things work and about exciting technologies that are in the market.<br><br>You're in my profile, so below you have my socials - if you have something you want to ask me feel free to do it and approach me!<br>
+👋 Hello, I'm Renato, a highly motivated and adaptable software engineer based in Luxembourg. I bring a wealth of experience to the table, having honed my skills at [Nexxtlab S.A.](https://www.nexxtlab.lu/) throughout my career.<be>
 
+🚀 As a dedicated Backend Engineer, my current tech stack revolves around [Jakarta EE](https://jakarta.ee/) and [Payara](https://www.payara.fish/), with [PostgreSQL](https://www.postgresql.org/) as our go-to database solution for efficient data management ensuring robust and efficient solutions for complex challenges. I thrive on curiosity and perpetual learning, always on the lookout for innovative technologies that can elevate my work to new heights. <be>
+
+🌟 My mission is to continually evolve as a Software Engineer, pushing the boundaries of what's possible. I believe in mastering the fundamentals while staying ahead of industry trends.
+
+💡 If you're as passionate about technology as I am, let's connect! Feel free to explore my socials below, and don't hesitate to reach out with any questions or opportunities. I'm eager to collaborate and contribute to exciting projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/renatompf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/renatompf) 
