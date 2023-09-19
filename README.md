@@ -1,5 +1,5 @@
 # Hi there!! 🖖
-I'm Renato a software engineer based in Luxembourg working for [Nexxtlab S.A.](https://www.nexxtlab.lu/) and for as long as my career has been I've been working as a Backend Engineer - currently using [JakartaEE](https://jakarta.ee/) and [Payara](https://www.payara.fish/).<br><br>Curious about how things work and being constantly reaserching I hope to become a better Software Engineer, therefore I'm trying to understand the best about how things work and about exciting technologies that are in the market.<br><br>You're in my profile, so below you have my socials - if you have something you want to ask me feel free to do it and approach me!<br>
+I'm Renato a software engineer based in Luxembourg working for [Nexxtlab S.A.](https://www.nexxtlab.lu/) and for as long as my career has been I've been working as a Backend Engineer - currently using [JakartaEE](https://jakarta.ee/) and [Payara](https://www.payara.fish/).<br><br>Curious about how things work and being constantly researching I hope to become a better Software Engineer, therefore I'm trying to understand the best about how things work and about exciting technologies that are in the market.<br><br>You're in my profile, so below you have my socials - if you have something you want to ask me feel free to do it and approach me!<br>
 
 
 ## 🌐 Socials:
