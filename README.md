@@ -1,7 +1,9 @@
 # Hi there!! 🖖
-👋 Hello, I'm Renato, a highly motivated and adaptable software engineer based in Luxembourg. I bring a wealth of experience to the table, having honed my skills at [Nexxtlab S.A.](https://www.nexxtlab.lu/) throughout my career.<be>
+👋 Hello, I'm Renato, a highly motivated and adaptable software engineer based in Luxembourg. I bring a wealth of experience to the table, having honed my skills at [Nexxtlab S.A.](https://www.nexxtlab.com/) throughout my career.<be>
 
-🚀 As a dedicated Backend Engineer, my current tech stack revolves around [Jakarta EE](https://jakarta.ee/) and [Payara](https://www.payara.fish/), with [PostgreSQL](https://www.postgresql.org/) as our go-to database solution for efficient data management ensuring robust and efficient solutions for complex challenges. I thrive on curiosity and perpetual learning, always on the lookout for innovative technologies that can elevate my work to new heights. <be>
+🚀 As a dedicated Backend Engineer, my current tech stack revolves around [Jakarta EE](https://jakarta.ee/) and [Payara](https://www.payara.fish/), with [PostgreSQL](https://www.postgresql.org/) as our go-to database solution for efficient data management ensuring robust and efficient solutions for complex challenges. I thrive on curiosity and perpetual learning, always on the lookout for innovative technologies that can elevate my work to new heights.
+
+🔍 Currently, I'm actively exploring and learning [Go](https://go.dev/) to broaden my skill set and explore new possibilities in software development while maintaining proficiency in my established tech stack.<be>
 
 🌟 My mission is to continually evolve as a Software Engineer, pushing the boundaries of what's possible. I believe in mastering the fundamentals while staying ahead of industry trends.
 
