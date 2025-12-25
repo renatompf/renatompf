@@ -7,7 +7,6 @@
 🌟 My mission is to keep growing as a Software Engineer, learning smarter ways to solve problems and trying not to reinvent the wheel… unless it’s fun.
 
 💡 If you're into tech, open source, or discussing why “it works on my machine,” feel free to reach out. Always happy to collaborate on cool projects!
-
 <br />
 
 # 🌐 Socials:
